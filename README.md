@@ -7,3 +7,4 @@ You can find exercise descriptions in the first line in every .JS file like bloc
 ## List of files
 
 1. while1.js
+2. while2.js
