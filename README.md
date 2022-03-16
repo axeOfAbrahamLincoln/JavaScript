@@ -14,3 +14,5 @@ You can find exercise descriptions in the first line in every .JS file like bloc
 5. while5.js
 
 ### Exercise FUNCTION
+
+1. fibonacci.js
