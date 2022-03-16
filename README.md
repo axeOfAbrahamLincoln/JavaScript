@@ -12,3 +12,5 @@ You can find exercise descriptions in the first line in every .JS file like bloc
 3. while3.js
 4. while4.js
 5. while5.js
+
+### Exercise FUNCTION
